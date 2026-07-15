@@ -23,15 +23,7 @@ The application tracks hand landmarks using a webcam and translates predefined g
 
 The project demonstrates practical applications of computer vision and human-computer interaction (HCI) without requiring any specialized hardware.
 
----
 
-## 🎥 Demo
-
-> **Demo Video:** *(Add your video link here)*
-
-```
-https://your-demo-link
-```
 
 ---
 
@@ -39,19 +31,23 @@ https://your-demo-link
 
 ### Brightness Mode
 
-![Brightness](screenshots/brightness.png)
+![Brightness](<img width="1916" height="1073" alt="Screenshot 2026-07-15 191539" src="https://github.com/user-attachments/assets/03228a76-b88a-4118-a63c-de0d48508de7" />
+)
 
 ### Screenshot Mode
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](<img width="1917" height="1075" alt="Screenshot 2026-07-15 191624" src="https://github.com/user-attachments/assets/d7ef72b5-eb9f-4c7a-8a54-4e431d94f41b" />
+)
 
 ### Scroll Mode
 
-![Scroll](screenshots/scroll.png)
+![Scroll](<img width="1917" height="1077" alt="Screenshot 2026-07-15 191608" src="https://github.com/user-attachments/assets/8ddc7c4d-0f61-4a0b-9107-9fb78c82a4d7" />
+)
 
 ### Cursor Mode
 
-![Cursor](screenshots/cursor.png)
+![Cursor](<img width="1917" height="1078" alt="Screenshot 2026-07-15 191637" src="https://github.com/user-attachments/assets/d5a2e9d4-8766-4bec-9bd9-df8fd4253b5c" />
+)
 
 ---
 
@@ -102,17 +98,9 @@ GestureOS/
 │
 ├── modules/
 │   └── hand_tracker.py
-│
-├── screenshots/
-│   ├── brightness.png
-│   ├── screenshot.png
-│   ├── scroll.png
-│   └── cursor.png
-│
 ├── app.py
 ├── requirements.txt
-├── README.md
-└── LICENSE
+
 ```
 
 ---
@@ -122,7 +110,7 @@ GestureOS/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/GestureOS.git
+git clone (https://github.com/SAYANDAS2109/GestureOS)
 ```
 
 Move into the project
@@ -209,10 +197,10 @@ python app.py
 Petroleum Engineering Undergraduate  
 IIT (ISM) Dhanbad
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: (https://github.com/SAYANDAS2109)
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: inkedin.com/in/sayan-das-1466b1369/
 
 ---
 
-# ⭐ If you found this project interesting, consider giving it a star!
+
