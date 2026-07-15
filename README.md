@@ -199,7 +199,7 @@ IIT (ISM) Dhanbad
 
 GitHub: (https://github.com/SAYANDAS2109)
 
-LinkedIn: inkedin.com/in/sayan-das-1466b1369/
+LinkedIn: (linkedin.com/in/sayan-das-1466b1369/)
 
 ---
 
