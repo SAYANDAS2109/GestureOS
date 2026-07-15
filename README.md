@@ -31,7 +31,7 @@ The project demonstrates practical applications of computer vision and human-com
 
 ### Brightness Mode
 
-![Brightness](<img width="1916" height="1073" alt="Screenshot 2026-07-15 191539" src="https://github.com/user-attachments/assets/03228a76-b88a-4118-a63c-de0d48508de7" />
+(<img width="1916" height="1073" alt="Screenshot 2026-07-15 191539" src="https://github.com/user-attachments/assets/03228a76-b88a-4118-a63c-de0d48508de7" />
 )
 
 ### Screenshot Mode
@@ -41,12 +41,12 @@ The project demonstrates practical applications of computer vision and human-com
 
 ### Scroll Mode
 
-![Scroll](<img width="1917" height="1077" alt="Screenshot 2026-07-15 191608" src="https://github.com/user-attachments/assets/8ddc7c4d-0f61-4a0b-9107-9fb78c82a4d7" />
+(<img width="1917" height="1077" alt="Screenshot 2026-07-15 191608" src="https://github.com/user-attachments/assets/8ddc7c4d-0f61-4a0b-9107-9fb78c82a4d7" />
 )
 
 ### Cursor Mode
 
-![Cursor](<img width="1917" height="1078" alt="Screenshot 2026-07-15 191637" src="https://github.com/user-attachments/assets/d5a2e9d4-8766-4bec-9bd9-df8fd4253b5c" />
+(<img width="1917" height="1078" alt="Screenshot 2026-07-15 191637" src="https://github.com/user-attachments/assets/d5a2e9d4-8766-4bec-9bd9-df8fd4253b5c" />
 )
 
 ---
