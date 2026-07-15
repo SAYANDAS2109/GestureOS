@@ -36,7 +36,7 @@ The project demonstrates practical applications of computer vision and human-com
 
 ### Screenshot Mode
 
-![Screenshot](<img width="1917" height="1075" alt="Screenshot 2026-07-15 191624" src="https://github.com/user-attachments/assets/d7ef72b5-eb9f-4c7a-8a54-4e431d94f41b" />
+(<img width="1917" height="1075" alt="Screenshot 2026-07-15 191624" src="https://github.com/user-attachments/assets/d7ef72b5-eb9f-4c7a-8a54-4e431d94f41b" />
 )
 
 ### Scroll Mode
