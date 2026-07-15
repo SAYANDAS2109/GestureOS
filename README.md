@@ -31,7 +31,7 @@ The project demonstrates practical applications of computer vision and human-com
 
 ### Brightness Mode
 
-[Brightness](<img width="1916" height="1073" alt="Screenshot 2026-07-15 191539" src="https://github.com/user-attachments/assets/03228a76-b88a-4118-a63c-de0d48508de7" />
+![Brightness](<img width="1916" height="1073" alt="Screenshot 2026-07-15 191539" src="https://github.com/user-attachments/assets/03228a76-b88a-4118-a63c-de0d48508de7" />
 )
 
 ### Screenshot Mode
