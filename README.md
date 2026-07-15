@@ -197,10 +197,4 @@ python app.py
 Petroleum Engineering Undergraduate  
 IIT (ISM) Dhanbad
 
-GitHub: (https://github.com/SAYANDAS2109)
-
-LinkedIn: (linkedin.com/in/sayan-das-1466b1369/)
-
----
-
 
